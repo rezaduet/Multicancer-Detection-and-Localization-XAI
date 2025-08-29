@@ -1,5 +1,8 @@
 **Multi-cancer Detection and Localization System Utilizing X-AI and Ensemble Technique using CNN**
 
+The study evaluated eight CNNs (EfficientNet, MobileNetV3, DenseNet201/121, VGG16/19, ResNet50/152) and combined the top five in a stacking ensemble, achieving 98.78% accuracy, 99% precision, and 99% sensitivity for cancer detection from histopathology images, with grad-CAM for explainability.
+
+
 ![image](https://github.com/user-attachments/assets/45c2dd49-e54a-4a65-a6c1-8c20ee1e1756)
 
 Please see the research paper: https://ieeexplore.ieee.org/document/10534377
